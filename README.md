@@ -4,7 +4,7 @@ A command-line application developed for a Data Structures university assignment
 
 ### Live Demo (GIF)
 
-![GIF of the application running](demo.gif)
+![GIF of the application running](studentcalculatorveetgt.gif)
 
 ---
 
